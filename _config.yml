@@ -4,7 +4,7 @@ author: Hari Ram Gauli
 email: hariramgauli@gmail.com
 phone: +977-9865522580
 github: https://github.com/HariRamKrishna
-about: I am a Lab-assistant at <a href="http://www.sres.edu.np" target="_blank">SRES</a> and a Data Analyst. I am interested in HEP and QComputing.
+about: I am a lab-assistant at <a href="http://www.sres.edu.np" target="_blank">SRES</a> and a Data Analyst. I am interested in HEP and QComputing.
 disqus_shortname: programming
 avatar_url: /static/img/me.jpg
 
@@ -18,7 +18,7 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://https://www.facebook.com/illicit.ubuntu"
+      link: "https://www.facebook.com/illicit.ubuntu"
     - icon: fa-twitter
       link: "https://twitter.com/IllicitUbuntu"
     - icon: fa-linkedin
