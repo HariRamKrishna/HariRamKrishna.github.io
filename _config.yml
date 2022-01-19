@@ -1,12 +1,11 @@
-title: Tauseef Jamadar
+title: Hari Ram Gauli
 description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
+author: Hari Ram Gauli
+email: hariramgauli@gmail.com
+phone: +977-9865522580
+github: https://github.com/HariRamKrishna
+about: I am a Lab-assistant at <a href="http://www.sres.edu.np" target="_blank">SRES</a> and a Data Analyst. I am interested in HEP and QComputing.
 disqus_shortname: programming
-google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -19,19 +18,19 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
+      link: "https://https://www.facebook.com/illicit.ubuntu"
     - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+      link: "https://twitter.com/IllicitUbuntu"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.linkedin.com/in/hari-gail-2b84641b1/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
+      link: "https://github.com/HariRamKrishna"
 
 share:
-  twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+  twitter_username: illicit.ubuntu
+  # fb_appid: 476679903831499
 
 urls:
     - text: About Me
@@ -43,7 +42,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+url: "https://HariRamKrishna.github.io/tauseef-blog"
 baseurl: ""
 paginate: 20
 per_page: 20
