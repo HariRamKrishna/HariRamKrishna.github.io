@@ -42,7 +42,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://HariRamKrishna.github.io/blogs"
+url: "https://HariRamKrishna.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
