@@ -10,8 +10,9 @@ My interest is in Combinatorial Optimization in  <a href="https://www.dwavesys.c
 <p> 
   <a href="https://hariramkrishna.github.io/CV_HRKG.pdf" target="_blank">My Resume</a>
  </p>
+
+
+
+## Reach me at:
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
-
-
-## Resume
- <a href="https://hariramkrishna.github.io/CV_HRKG.pdf" target="_blank"> My Resume</a>
+academic mail: hari1.735401@trc.tu.edu.np
