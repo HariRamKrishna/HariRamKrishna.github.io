@@ -12,4 +12,4 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 
 ## Resume
-<iframe src="http://www.github.com/HariRamKrishna/CV_HRKG.pdf/"></iframe>
+<iframe src="https://www.hariramkrishna.github.io/CV_HRKG.pdf/"></iframe>
