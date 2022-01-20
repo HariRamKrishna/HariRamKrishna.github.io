@@ -16,7 +16,7 @@ My interest is in Combinatorial Optimization in  <a href="https://www.dwavesys.c
   <a href="https://hariramkrishna.github.io/KAS.pdf" target="_blank">KAS 2020 Astro. School of Exploratory Data Analysis</a>
  </p>
  <p> 
-  <a href="https://hariramkrishna.github.io/HPC.pdf" target="_blank">KU HPC Workshop of Computation in Quantum Espresso </a>
+  <a href="https://hariramkrishna.github.io/HPC.pdf" target="_blank">KU HPC Workshop on Computation in Quantum Espresso </a>
  </p>
 
 # Reach Me at:
