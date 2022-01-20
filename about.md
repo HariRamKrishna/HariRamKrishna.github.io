@@ -14,5 +14,7 @@ My interest is in Combinatorial Optimization in  <a href="https://www.dwavesys.c
 
 
 ## Reach me at:
-Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
-academic mail: hari1.735401@trc.tu.edu.np
+Gmail: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
+<p>
+TU mail address: hari1.735401@trc.tu.edu.np
+  </p>
