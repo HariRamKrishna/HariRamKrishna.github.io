@@ -15,7 +15,7 @@ My interest is in Combinatorial Optimization in  <a href="https://www.dwavesys.c
  </p>
  
 
-# Professional Development Verifications:
+# Professional Development:
 <p> 
   <a href="https://hariramkrishna.github.io/KAS.pdf" target="_blank">KAS 2020 Astro. School of Exploratory Data Analysis</a>
  </p>
