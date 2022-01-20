@@ -8,7 +8,7 @@ My interest is in Combinatorial Optimization in  <a href="https://www.dwavesys.c
 </p>
 
 <p> 
-  <a href="https://www.hariramkrishna.github.io/CV_HRKG.pdf" target="_blank">Resume</a>
+  <a href="https://www.hariramkrishna.github.io/CV_HRKG.pdf" target="_blank">My Resume</a>
  </p>
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
