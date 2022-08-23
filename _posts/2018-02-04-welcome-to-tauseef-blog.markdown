@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "Welcome to my trashes!"
 date:   2022-01-22 21:28:15 +0700
 ---
 First of all, Thank you for stopping by.
-####  > "The artist exists because the world is not perfect." -Andrei Tarkovsky
+
 
 
 # Trashes are here...
@@ -17,18 +17,31 @@ First of all, Thank you for stopping by.
 ##Rain and Cold
 
 a vase- beyond repair
+
 destroyed by your blackart
+
 yet I try to convince my buds
+
 as if everything went fair
+
 for shivering rain and cold,
+
 is only when you remind
+
 the warmth and the sunshine,
+
 when no longer you can find.
+
 a plea to lower your price
+
 of those times that I sent you,
+
 for my love found no place
+
 for you control my market crew
+
 fate of every dazzling sun
+
 bloodshed in the horizon
 I can't stop, but I can cry
 no mercy in the velvet sky
@@ -40,6 +53,6 @@ people call it peace of grave.
 
 
 
-#
+#####   "The artist exists because the world is not perfect." -Andrei Tarkovsky
 
 [academic email]:  hari1.735401@trc.tu.edu.np
