@@ -4,20 +4,42 @@ title:  "Welcome to my blog!"
 date:   2022-01-22 21:28:15 +0700
 ---
 First of all, Thank you for stopping by.
-
-# Who am I?
-Hi, I am `Hari Ram Krishna Gauli`, a *Physics undergraduate* and a *Technology Enthusiast* from Chitwan, Nepal who loves to code for intractable problems of real-life. 
-
-I was born in Bharatpur, and I did my BSc degree in Physics from [Tri-Chandra Multiple College, Ghantaghar][csu-chico] affiliated to Tribhuvan University and graduated in year 2020.
-
-I have about 3 years of experience of Optimization and Data Analysis in Python. I am aspiring to learn, grow and share the knowledge. I started real world programming from the year 2019, when I did my project work on map coloring using DWAVE. I am constantly looking to work on exciting projects.
-
-#### I believe in the statement -
-> "With Great Power Comes the Great Responsibility"
+####  > "The artist exists because the world is not perfect." -Andrei Tarkovsky
 
 
-# What is this site about?
-Starting a blog and creating an online presense, to share my learnings was always on my to do list. Finally today I decided to start doing it.
-I want to use this site as a place to share my experiences with interesting programs in problem solving, hoping it would help someone join coding.
+# Trashes are here...
+ this space is left as a place to dump my poems. If you want to dump yours too, mail me!
+
+
+
+
+
+##Rain and Cold
+
+a vase- beyond repair
+destroyed by your blackart
+yet I try to convince my buds
+as if everything went fair
+for shivering rain and cold,
+is only when you remind
+the warmth and the sunshine,
+when no longer you can find.
+a plea to lower your price
+of those times that I sent you,
+for my love found no place
+for you control my market crew
+fate of every dazzling sun
+bloodshed in the horizon
+I can't stop, but I can cry
+no mercy in the velvet sky
+when the hills can't behold
+tears of heaven- drops of rain
+peace beyond the murky clouds
+people call it peace of grave.
+--------------------------------
+
+
+
+#
 
 [academic email]:  hari1.735401@trc.tu.edu.np
