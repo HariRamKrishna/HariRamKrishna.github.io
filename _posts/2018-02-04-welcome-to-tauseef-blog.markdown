@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my trashes!"
+title:  "trash"
 date:   2022-01-22 21:28:15 +0700
 ---
-First of all, Thank you for stopping by.
-
-
-
-# Trashes are here...
- this space is left as a place to dump my poems. If you want to dump yours too, mail me!
+Thank you for stopping by.
+this space is left as a place to dump my poems. 
 
 
 
