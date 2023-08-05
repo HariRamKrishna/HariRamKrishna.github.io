@@ -408,7 +408,86 @@ and i miss you everyday!
 -------------------------------
 -------------------------------
           
-           
+### - Forgive me my dreams
+forgive me my dreams,
+spontaneously broken
+promises I made,
+yet, to let you know, i write
+I was tryin' to survive 
+till my last hope died.
+
+yes it stinks 
+my very innate instinct
+my dead ended madness
+like a body, rotten 
+of once a brave
+invincible warrior.
+
+the way we used to convey
+suddenly stopped working
+like first order phase transition
+the inevitable disaster i knew
+audience deafened and blinded
+and i left earlier.
+
+so I walk dead
+in perfect silence,
+tunneling through pitch dark
+the only irrefutable option
+amid fish-frog finger play 
+was there other way?
+
+we can yet recover
+in theory, in philosophy
+the order and the peace
+setting large correlation length 
+of curiosity in mind
+all it takes is seeding.
+
+I hope one day
+we would self assemble,
+for we must find a way
+to put theory into practice
+to delay expiry date,
+before its too late.
+
+Anyway, thankyou
+for your capitalism lecture,
+I am obliged to sway. 
+the solace of shadows,
+star-chase for sure,
+how could I betray!
+
+-------------------------------
+-------------------------------
+### - God's Plan
+moments you create, memories you share,
+tears you wipe, for outcries are rare!
+let your handshakes make them proud,
+for life is not just a- funeral crowd. 
+
+the farewell you bid, to sunset at breeze,
+burnt over the mountains of- sequoia trees.
+the persona you exude, philosophy you care
+the kindness you offer, the loyalty you bear.
+
+the vibes you set, the beauty in the air,
+the hands you lend, when they are near
+for life is not just a funeral crowd.
+cry not alone, see wolves make fun around!
+
+for lord has plan over our every defeat
+priorites he sets are, ne'er a misfit.
+we rise by giving, see time unfold,
+the story of life, the journey untold.
+
+having lived each day, with passion & zeal
+traceless be our egoes, till expiry date.
+legacy so vibrant, that ocean would feel,
+the embrace of our soul, before its late!
+
+-------------------------------
+-------------------------------
          
 
                                  
